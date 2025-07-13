@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-image-yasin.netlify.app/tenor.gif" height="280" alt="Profile Banner" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGszD-lVWPHNA/profile-displaybackgroundimage-shrink_350_1400/B56Ze1N91gHQAY-/0/1751092027983?e=1758153600&v=beta&t=gBflwcepRJYrDBdEZeQrgGfs8kKKGcfBgcuuRV1hu30" />
 </div>
 
 ---
