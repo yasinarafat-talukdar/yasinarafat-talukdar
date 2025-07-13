@@ -30,36 +30,99 @@
   <img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/494737727_3957869171132728_6448596110228555805_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHnx8DikEpEXhLaAo-NVYaOz_yN4bWzro3P_I3htbOujfaH5H8TuZZq4t6sfgJGowLO3RFyt-g-AvZ70gvKtsk7&_nc_ohc=Yt-bd10YmgsQ7kNvwEVzCX_&_nc_oc=AdlFu_XokAnyJKdvAyD46-EMe76_w7P3FXS_rwDwOWNh1VxYMAQfKfKQiBB-luYSBvI&_nc_zt=23&_nc_ht=scontent.fcgp17-1.fna&_nc_gid=qXwwJlrikTSUpTpM4FJYZg&oh=00_AfSaPf4FBXmhbJjazqMPXYLPK7dAljzb7hlw6cwDmkeX2w&oe=6879D0CF" height="160" />
 </div>
 
-#### 🧠 Languages & Frameworks
-
+🧠 Languages & Frameworks
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="25" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
 </p>
-
-#### 🎨 Frontend Libraries & UI Tools
-
+🎨 Frontend Libraries & UI Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="25" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="25" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="25" /> 
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
 </p>
-
-#### 🧰 CMS & Design Tools
-
+🧰 CMS & Design Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+    height="25"
+    style="margin-right: 10px"
+  />
 </p>
 
 ---
